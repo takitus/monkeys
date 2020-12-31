@@ -2,6 +2,7 @@
 // @name         Aero In Stock
 // @namespace    http://takitus.net/
 // @version      0.11
+// @downloadURL  https://raw.githubusercontent.com/takitus/monkeys/main/aero/aeroinstock.js
 // @updateURL    https://raw.githubusercontent.com/takitus/monkeys/main/aero/aeroinstock.js
 // @description  Displays only in stock items when choosing the 'show all' count on the page
 // @author       takitus
