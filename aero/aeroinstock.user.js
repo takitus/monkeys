@@ -2,8 +2,8 @@
 // @name         Aero In Stock
 // @namespace    http://takitus.net/
 // @version      0.12
-// @downloadURL  https://raw.githubusercontent.com/takitus/monkeys/main/aero/aeroinstock.user.js
-// @updateURL    https://raw.githubusercontent.com/takitus/monkeys/main/aero/aeroinstock.user.js
+// @downloadURL  https://github.com/takitus/monkeys/raw/main/aero/aeroinstock.user.js
+// @updateURL    https://github.com/takitus/monkeys/raw/main/aero/aeroinstock.user.js
 // @description  Displays only in stock items when choosing the 'show all' count on the page
 // @author       takitus
 // @match        https://www.aeroprecisionusa.com/*?product_list_limit=all
