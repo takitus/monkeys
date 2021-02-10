@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Natchez List Sort
 // @namespace    http://takitus.net/
-// @version      0.12
+// @version      0.13
 // @downloadURL  https://github.com/takitus/monkeys/raw/main/natchez/natchezsort.user.js
 // @updateURL    https://github.com/takitus/monkeys/raw/main/natchez/natchezsort.user.js
 // @description  Moves all in stock items to the top of the list, hides extra info for out of stock
