@@ -19,7 +19,7 @@
 
     // move in stock to top of list
     $('.add-to-cart-alt button.btn-cart').closest('tr').each(function(){
-      $(this).prependTo("#wishlist-table");
+      $(this).prependTo("#wishlist-table"); 
     });
 
     // minimize not in stock
