@@ -4,7 +4,7 @@
 // @version      0.1
 // @downloadURL  https://github.com/takitus/monkeys/raw/main/natchezz/natchezzsort.user.js
 // @updateURL    https://github.com/takitus/monkeys/raw/main/natchezz/natchezzsort.user.js
-// @description  Displays only in stock items when choosing the 'show all' count on the page
+// @description  Moves all in stock items to the top of the list, hides extra info for out of stock
 // @author       takitus
 // @match        https://www.natchezss.com/wishlist/*
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
